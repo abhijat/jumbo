@@ -1,0 +1,6 @@
+[package]
+name = "jumbo"
+version = "0.1.0"
+authors = ["Abhijat Malviya <malviya.abhijat@gmail.com>"]
+
+[dependencies]
